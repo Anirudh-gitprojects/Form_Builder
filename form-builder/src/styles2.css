@@ -1,0 +1,11 @@
+
+  span {
+    width: 100px;
+    display: inline-block;
+    height: 20px;
+  }
+  
+.optionsbox {
+    padding: 10px;
+    background: lavenderblush;
+  }
